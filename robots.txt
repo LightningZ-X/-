@@ -1,9 +1,4 @@
-# 允许所有搜索引擎抓取
+# 旧站只承担迁移跳转，请使用正式站点。
 User-agent: *
 Allow: /
-
-# 开发与文档目录对搜索引擎无价值，且会稀释抓取预算
-Disallow: /tools/
-Disallow: /docs/
-
-Sitemap: https://lightningz-x.github.io/-/sitemap.xml
+Sitemap: https://lightningz-x.github.io/sitemap.xml
